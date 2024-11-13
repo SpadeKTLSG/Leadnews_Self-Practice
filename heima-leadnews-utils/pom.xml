@@ -59,6 +59,10 @@
             <artifactId>protostuff-runtime</artifactId>
             <version>1.6.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.heima</groupId>
+            <artifactId>heima-leadnews-model</artifactId>
+        </dependency>
     </dependencies>
 
     <properties>
